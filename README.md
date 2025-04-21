@@ -1,7 +1,7 @@
 Visualisation d'une base de données Pokémon
 Projet basé sur une problématique : "Comment visualiser efficacement les Pokémon selon leurs statistiques (PV, Attaque, Défense), en fonction de leur génération et de leur type spécial ?"
 
-🎯 Objectifs
+🎯 **Objectifs**
 
 Analyser la répartition des statistiques principales des Pokémon (Points de Vie, Attaque, Défense) selon leur génération et leur type spécial.
 
@@ -11,14 +11,16 @@ Réalisation de visualisations dynamiques et interactives permettant une lecture
 
 ⚙️ Comment utiliser ce projet ?
 
-Téléchargement
+**Téléchargement**
 
 Rendez-vous sur la page du dépôt GitHub.
 
-Téléchargez le fichier en cliquant dessus ou via le bouton "Code" > "Télécharger ZIP".
+Si vous avez "Tableau Desktop" sur votre appareil, téléchargez le fichier en cliquant dessus ou via le bouton "Code" > "Télécharger ZIP".
+
+Dans le cas contraire, veuillez vous diriger vers les captures d'écran de ce projet que vous trouverez dans "Captures d'écran, Visualisation de données Tableau Desktop"
 
 
-Exploration des résultats
+**Exploration des résultats**
 
 Utilisez les filtres pour sélectionner des générations ou types spécifiques.
 
@@ -26,7 +28,7 @@ Analysez la répartition des PV, Attaques et Défenses pour repérer des tendanc
 
 Comparez visuellement les statistiques entre types ou entre générations.
 
-🛠️ Outils et Technologies Utilisés
+🛠️ **Outils et Technologies Utilisés**
 
 Tableau
 
